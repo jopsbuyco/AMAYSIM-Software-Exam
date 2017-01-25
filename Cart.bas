@@ -31,6 +31,7 @@ Sub NewCart()
     ThisWorkbook.Worksheets("Global").Range("B21") = 39.9       'global_Rules_ult_large_price_group
     ThisWorkbook.Worksheets("Global").Range("B22") = 9.9        'global_Rules_1gb_price
     ThisWorkbook.Worksheets("Global").Range("B23") = 0          'global_Rules_1gb_price_group
+    ThisWorkbook.Worksheets("Global").Range("B24") = 0.9        'global_promo_discount
     
     ThisWorkbook.Worksheets("Global").TextBox1 = ""
 
